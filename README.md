@@ -2,7 +2,7 @@
 
 A tool for measuring how consistent a Formula 1 driver's lap times were during a race, stint by stint. Pick a year, event, session, and driver in a simple web UI, and get back consistency stats plus a plot.
 
-
+![Example output — Alonso, 2023 Azerbaijan GP](ALO_2023_Azerbaijan_consistency.png)
 
 ## What it does
 
