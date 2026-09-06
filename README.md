@@ -60,4 +60,4 @@ This opens the app in your default browser. Pick a year, event, session type, an
 
 ## License
 
-MIT (or update this to whatever license you prefer)
+MIT
